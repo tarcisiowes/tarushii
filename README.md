@@ -21,7 +21,7 @@
 <a href="https://github.com/tarushii/">
  <img style="border-radius: 40%;" src="https://avatars.githubusercontent.com/u/47664070?s=460&u=f1b21569c2a9ce912c58190274839dc5a7e81759&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Tarcisio Wesley</b></sub></a> <a href="https://github.com/tarushii" title="Github">🚀</a>
+ <sub><b>Tarcisio Wesley</b></sub></a> <a href="https://github.com/tarushii" title="Github"></a>
  
 [![Linkedin Badge](https://img.shields.io/badge/-Tarcisio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisio-wesley//)](https://www.linkedin.com/in/tarcisio-wesley/) 
 [![Gmail Badge](https://img.shields.io/badge/-tarcisiowesley@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarcisiowesley@gmail.com)](mailto:tarcisiowesley@gmail.com)
