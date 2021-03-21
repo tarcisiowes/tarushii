@@ -10,14 +10,14 @@
 - Gosto de praticar atividades fisicas, meu esporte predileto é Baseball ( sim, eu ja joguei e nao, eu nao gosto de futebol)
 - Prefiro salgados do que doces, qualquer massa.
 - Não gosto tanto de filmes mas curto series e animes.
-- Meu hobbie preferido jogos de tabuleiro e online.
+- Adoro jogos de tabuleiro e jogos Coop online.
 
 ## Programação 🧱
 
 - No inicio de 2020 eu recebi o convite ( pela segunda vez rs) do meu Amigo Felipe Carvalho e após passar por varias áreas de trabalho, decidi aceitar o  começar uma nova página na carreira, estou fazendo essa transição e estou gostando demais a cada conteúdo novo apresentado.
 - Ainda esta no inicio mas espero poder fazer muitas amizades e contribuir no que eu puder =]
 
-## Em progresso
+## Em progresso 📚
 
 - ![Ingles](https://img.shields.io/badge/-Ingles-ff69b4)
 - ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue)
