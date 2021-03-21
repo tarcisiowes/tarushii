@@ -14,8 +14,10 @@
 
 ## Programação 🧱
 
-- No inicio de 2020 eu recebi o convite ( pela segunda vez rs) do meu Amigo Felipe Carvalho e após passar por varias áreas de trabalho, decidi aceitar o  começar uma nova página na carreira, estou fazendo essa transição e estou gostando demais de cada conteúdo novo apresentado.
+- No inicio de 2020 eu recebi o convite ( pela segunda vez rs) do meu Amigo Felipe Carvalho e após passar por varias áreas de trabalho, decidi aceitar o  começar uma nova página na carreira, estou fazendo essa transição de carreira
+- Comecei o curso Programação do zero na Cubos Academy e estou gostando demais de cada conteúdo novo apresentado, por sinal tudo ta sendo novo pra mim hehe.
 - Ainda esta no inicio mas espero poder fazer muitas amizades e contribuir no que eu puder =]
+- LEZZGOUU!!!
 
 ## Em progresso 📚
 
