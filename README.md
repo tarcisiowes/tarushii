@@ -1,4 +1,4 @@
-## Sobre-mim ⚙
+## Sobre mim ⚙
 
 - Atualmente trabalho na empresa da família como superviso de manutenção e instalação de ar condicionado.
 - Antes da pandemia dava aulas de Forró também ( agora to so na vontade 😅)
