@@ -14,7 +14,7 @@
 
 ## Programação 🧱
 
-- No inicio de 2020 eu recebi o convite ( pela segunda vez rs) do meu Amigo Felipe Carvalho e após passar por varias áreas de trabalho, decidi aceitar o  começar uma nova página na carreira, estou fazendo essa transição e estou gostando demais a cada conteúdo novo apresentado.
+- No inicio de 2020 eu recebi o convite ( pela segunda vez rs) do meu Amigo Felipe Carvalho e após passar por varias áreas de trabalho, decidi aceitar o  começar uma nova página na carreira, estou fazendo essa transição e estou gostando demais de cada conteúdo novo apresentado.
 - Ainda esta no inicio mas espero poder fazer muitas amizades e contribuir no que eu puder =]
 
 ## Em progresso 📚
