@@ -4,14 +4,14 @@
 - Antes da pandemia dava aulas de Forró também ( agora to so na vontade 😅)
 - Tenho experiência na area de TI, trabalhei no RJ no projeto 3G da claro/embratel e também dando manutenção em PCs domesticos
 
-##Algumas curiosidades ❗
+-->Algumas curiosidades ❗
 - Ja fui desenhista, tive banda de rock 🤘 , toquei violoncello na igreja (nada a ver ne rs)
 - Gosto de praticar atividades fisicas, meu esporte predileto é Baseball ( sim, eu ja joguei e nao, eu nao gosto de futebol)
 - Prefiro salgados do que doces, qualquer massa.
 - Não gosto tanto de filmes mas curto series e animes.
 - Meu hobbie preferido jogos de tabuleiro e online.
 
-##Programação 🧱
+-->Programação 🧱
 -No inicio de 2020 eu recebi o convite ( pela segunda vez rs) do meu Amigo Felipe Carvalho e após passar por varias áreas de trabalho, decidi aceitar o  começar uma nova página na carreira, estou fazendo essa transição e estou gostando demais a cada conteúdo novo apresentado.
 -Ainda esta no inicio mas espero poder fazer muitas amizades e contribuir no que eu puder =]
 
