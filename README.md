@@ -17,6 +17,14 @@
 - No inicio de 2020 eu recebi o convite ( pela segunda vez rs) do meu Amigo Felipe Carvalho e após passar por varias áreas de trabalho, decidi aceitar o  começar uma nova página na carreira, estou fazendo essa transição e estou gostando demais a cada conteúdo novo apresentado.
 - Ainda esta no inicio mas espero poder fazer muitas amizades e contribuir no que eu puder =]
 
+## Em progresso
+
+- ![Ingles](https://img.shields.io/badge/-ingles-ff69b4)
+- ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue)
+- ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red) 
+- ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=orange)
+- ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen) 
+
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tarcisio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisio-wesley//)](https://www.linkedin.com/in/tarcisio-wesley/) 
