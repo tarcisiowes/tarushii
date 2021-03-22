@@ -4,9 +4,9 @@
 
 ## Algumas experiências ⚙
 
-- Atualmente trabalho na empresa da família como supervisor de manutenção e instalação de ar condicionado.
+- Atualmente trabalho na empresa Arben do Brasil como supervisor operacional de manutenção e instalação de ar condicionado.
 - Antes da pandemia dava aulas de Forró também ( agora to so na vontade 😅)
-- Tenho bastante experiência na area de TI, trabalhei no RJ no projeto 3G da claro/embratel (Softmig Software e Telecomunicações)  e também dando manutenção em PCs domesticos
+- Tenho bastante experiência na area de TI, trabalhei no RJ no projeto 3G da Claro/Embratel (Softmig Software e Telecomunicações)  e também dando manutenção em PCs domesticos
 
 ## Algumas curiosidades ❗
 
