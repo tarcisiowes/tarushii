@@ -2,7 +2,7 @@
 - Seja bem-vindo(a) ao meu GitHub
 - Ainda estou engatinhando por aqui mas fique a vontade, e qualquer coisa meus contatos estão no rodapé 📌 
 
-## Carreira ⚙
+## Algumas experiências ⚙
 
 - Atualmente trabalho na empresa da família como supervisor de manutenção e instalação de ar condicionado.
 - Antes da pandemia dava aulas de Forró também ( agora to so na vontade 😅)
