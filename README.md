@@ -4,12 +4,13 @@
 - : Ainda estou engatinhando por aqui mas fique a vontade, e qualquer coisa meus contatos estão no rodapé 📌 
 "}
 
-## ⚙ const algumasExperiencias = {
+## ⚙ const algumasExperiencias = {"
 
 - : Atualmente trabalho na empresa Arben do Brasil como supervisor operacional de manutenção e instalação de ar condicionado,
 - : Antes da pandemia dava aulas de Forró também ( agora to so na vontade 😅),
 - : Tenho bastante experiência na area de TI, trabalhei no RJ no projeto 3G da Claro/Embratel (Softmig Software e Telecomunicações)  e também dando manutenção em PCs domesticos,
-}
+
+"}
 
 ## ❗ const algumasCuriosidades = {"
 
@@ -18,7 +19,8 @@
 - : Prefiro salgados do que doces, qualquer massa,
 - : Não gosto tanto de filmes mas curto series e animes,
 - : Adoro jogos de tabuleiro e jogos Coop online,
-}
+
+"}
 
 ## 🧱 const incieiProgramacao = {"
 
@@ -26,6 +28,7 @@
 - : Comecei o curso Programação do zero na Cubos Academy e estou gostando demais de cada conteúdo novo apresentado, por sinal tudo ta sendo novo pra mim hehe,
 - : Ainda esta no inicio mas espero poder fazer muitas amizades e contribuir no que eu puder =],
 - : LEZZGOUU!!!,
+
 "}
 
 ## 📚 const emProgresso = {"
