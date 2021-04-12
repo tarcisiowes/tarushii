@@ -34,6 +34,7 @@
 
 ## 📚 const emProgresso = {"
 
+- ![Lógica de programação](https://img.shields.io/badge/-Lógica de programação-808080),
 - ![Ingles](https://img.shields.io/badge/-Ingles-ff69b4),
 - ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue),
 - ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red),
