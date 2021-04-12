@@ -42,6 +42,7 @@
 - ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen),
 - ![DOM](https://img.shields.io/badge/-DOM-FFB27F),
 - ![React](https://img.shields.io/badge/-React-B200FF),
+- ![ES6](https://img.shields.io/badge/-React-FF6A00),
 
 "}
 
