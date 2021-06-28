@@ -43,7 +43,13 @@
 - ![DOM](https://img.shields.io/badge/-DOM-FFB27F),
 - ![React](https://img.shields.io/badge/-React-B200FF),
 - ![ES6](https://img.shields.io/badge/-ES6-FF6A00),
-
+- ![Context](https://img.shields.io/badge/-Context-5BD6FF),
+- ![Forms](https://img.shields.io/badge/-Forms-FF91E7),
+- ![Routes](https://img.shields.io/badge/-Routes-70FFE9),
+- ![SQL](https://img.shields.io/badge/-SQL-FF5154),
+- ![PG](https://img.shields.io/badge/-PG-FFBB7F),
+- ![Auth](https://img.shields.io/badge/-Auth-FF000C),
+- ![Encryption](https://img.shields.io/badge/-Encryption-ffffff),
 }
 
 console.log( [![Linkedin Badge](https://img.shields.io/badge/-Tarcisio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisio-wesley//)](https://www.linkedin.com/in/tarcisio-wesley/) ,
