@@ -25,9 +25,9 @@
 
 ## 🧱 const incieiProgramacao = {
 
-- : No inicio de 2020 eu recebi o convite ( pela segunda vez rs) do meu Amigo Felipe Carvalho e após passar por varias áreas de trabalho, decidi aceitar o  começar uma nova página na carreira, estou fazendo essa transição de carreira,
-- : Comecei o curso Programação do zero na Cubos Academy e estou gostando demais de cada conteúdo novo apresentado, por sinal tudo ta sendo novo pra mim hehe,
-- : Ainda esta no inicio mas espero poder fazer muitas amizades e contribuir no que eu puder =],
+- : No inicio de 2021 eu recebi o convite ( pela segunda vez =P) do meu Amigo Felipe Carvalho e após passar por varias áreas de trabalho, decidi aceitar o convite e começar uma nova página na minha vida profissional, estou fazendo essa transição de carreira neste momento,
+- : Comecei o curso Programação do zero na Cubos Academy e estou gostando demais de cada conteúdo novo apresentado, que por sinal tudo ta sendo novo pra mim =],
+- : Ainda esta no inicio mas espero poder fazer muitas amizades e contribuir bastante no que eu puder em um futuro breve =],
 - : LEZZGOUU!!!,
 
 }
