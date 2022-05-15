@@ -33,9 +33,8 @@
 
 }
 
-## 📚 const emProgresso = {
+## 📚 const sempreMelhorando = {
 
-- ![LógicaDeProgramação](https://img.shields.io/badge/-LógicaDeProgramação-808080),
 - ![English](https://img.shields.io/badge/-English-ff69b4),
 - ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue),
 - ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red),
@@ -46,7 +45,6 @@
 - ![ES6](https://img.shields.io/badge/-ES6-FF6A00),
 - ![Context](https://img.shields.io/badge/-Context-5BD6FF),
 - ![Nextjs](https://img.shields.io/badge/-Nextjs-FF91E7),
-- ![Routes](https://img.shields.io/badge/-Routes-70FFE9),
 - ![SQL](https://img.shields.io/badge/-SQL-FF5154),
 - ![PG](https://img.shields.io/badge/-PG-FFBB7F),
 - ![Auth](https://img.shields.io/badge/-Auth-FF000C),
